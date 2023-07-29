@@ -22,6 +22,6 @@ To excel academically, students need access to a wealth of study materials and n
 **
 Learning is not limited to classrooms or virtual meetings; it thrives on peer interactions and discussions. The Software incorporates a vibrant chat room interface that encourages students to connect, collaborate, and learn from each other. Here, they can engage in academic discussions, share ideas, seek assistance, and build a strong community of learners. The app fosters a supportive network that promotes collective growth and learning. What beautifies this interface, is that all conversations are stored in the cloud.
 
-Conclusion![image](https://github.com/Chifrica/Revolutionizing-Student-Learning/assets/76081468/ed354c32-ffaf-4638-9e89-a723a0d98c8e)
+[image](https://github.com/Chifrica/Revolutionizing-Student-Learning/assets/76081468/ed354c32-ffaf-4638-9e89-a723a0d98c8e)
 
 The Software is more than just an app; it's a comprehensive platform that revolutionizes the way students approach their education. From smart attendance tracking to interactive virtual learning, from seamless communication to accessing study materials, this app empowers students with the tools they need to thrive academically. By fostering a conducive learning environment and promoting collaborative learning, the app sets the stage for a brighter and smarter future. Embrace the power of technology and embark on an academic journey like never before with the Software!
