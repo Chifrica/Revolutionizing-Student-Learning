@@ -1,6 +1,5 @@
-**Revolutionizing Student Learning![image](https://github.com/Chifrica/Revolutionizing-Student-Learning/assets/76081468/996415c2-6a40-4f7d-8183-7ee41d98880a)
-**
-The Ultimate Android App for Academic Excellence
+![image](https://github.com/Chifrica/Revolutionizing-Student-Learning/assets/76081468/996415c2-6a40-4f7d-8183-7ee41d98880a)
+
 ![image](https://github.com/Chifrica/Revolutionizing-Student-Learning/assets/76081468/39033f5e-6e5e-49e7-b502-d31a0a56e57d)
 <br>
 <br>
